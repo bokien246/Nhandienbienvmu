@@ -4,7 +4,7 @@ from easyocr import Reader
 import cv2
 
 
-img = cv2.imread('img2.jpg')
+img = cv2.imread('img4.jpg')
 img = cv2.resize(img, (1000, 600))
 fontpath = "./arial.ttf"
 font = ImageFont.truetype(fontpath, 32)
