@@ -1,0 +1,13 @@
+opencv-python
+numpy
+easyocr
+pip install pillow
+imutils
+Reader
+pip install -r setup.txt
+
+# pip install easyocr
+#
+# pip install opencv-python==4.5.4.60
+#
+# pip install opencv-contrib-python==4.5.4.60
